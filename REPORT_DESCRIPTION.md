@@ -1,6 +1,5 @@
-This project presents a structured quality assurance test plan for a hypothetical Online Student Management Portal. The portal is designed to support student registration and login, a personalized dashboard, student profile viewing and editing, student search, administrator create, read, update, and delete operations, and secure logout. The report explains the test objectives and assumed requirements, defines what is included and excluded, and describes the functional, usability, accessibility, regression, acceptance, and security testing approach.
-
-The plan also documents the proposed test environment, synthetic test data, team responsibilities, product and project risks, risk mitigation actions, entry and exit criteria, defect reporting workflow, and a five-day test schedule. A coverage matrix connects the assumed requirements to 24 detailed test cases. Each test case provides its identifier, module, test type, priority, preconditions, test data, numbered execution steps, expected result, space for the actual result, and an initial Not Executed status. The scenarios cover successful and unsuccessful registration and login, form validation, dashboard navigation, profile persistence and access control, search behavior, administrator CRUD workflows, logout and session expiry, common input-security checks, responsive layouts, keyboard operation, focus visibility, form errors, and safe handling of errors.
-
-The document uses recognized industry guidance from ISTQB, OWASP, NIST, and W3C to shape its planning and test coverage. All application details are hypothetical assumptions that must be confirmed before execution. The included sample student records use fictional names and reserved test email addresses; no real student information is required. Security tests are intended only for an authorized isolated QA environment. The deliverable is an editable Word document suitable for review, execution planning, and internship submission.
-
+ParserError: 
+Line |
+   2 |  . N.md' -Raw; 'WORDCOUNT=' + ([regex]::Matches($text, '\b[\w'.-]+\b').C .
+     |                                                                 ~
+     | Missing expression after unary operator '-'.
